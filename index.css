@@ -1,0 +1,13 @@
+div {
+    border: solid 1px;
+    border-radius: 2px;
+    background-color: lightgoldenrodyellow;
+    margin: 100px 300px 100px 300px;
+}
+h1 {
+    background-color: red;
+    color: white;
+}
+body {
+    background-color: lightskyblue;
+}
